@@ -8,7 +8,7 @@
 - **RF shielded**, great for measurement devices
 - Removable flat panels **very easy to customize**
 
-![Alt text](/images/AlClosure.redered.open.600.png?raw=true)
+[![Open View](/images/AlClosure.redered.open.600.png?raw=true)(https://github.com/0xPIT/AlClosure/blob/master/stl/AlClosure.open.stl)]
 
 Neccesary parrameters in [OpenSCAD](http://openscad.org) file:
 ```js
@@ -44,7 +44,7 @@ sideThickness = 6;
     - A regular milling cutter could be used, but it's slow and breaks easily
 
 #### Closed View
-![Alt text](/images/AlClosure.redered.closed.600.png?raw=true)
+![Closed View](/images/AlClosure.redered.closed.600.png?raw=true)
 
-#### Detail Image
-![Alt text](/images/AlClosure.detail.600.png?raw=true)
+#### Detail View
+![Detail View](/images/AlClosure.detail.600.png?raw=true)
