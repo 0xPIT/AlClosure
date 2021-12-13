@@ -20,7 +20,7 @@ outerD = 150;
 //    6mm sides and M2.5 screws
 //    8mm sides and M3   screws
 
-// Aheet metal thickness of top, bottom, front & back panel
+// sheet metal thickness of top, bottom, front & back panel
 // 💡 Recommended to use anodized aluminum for front + back
 panelThickness = 2;
 
