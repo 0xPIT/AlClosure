@@ -5,7 +5,7 @@ A Beautiful Professional Aluminum Device Enclosure
 ![Alt text](/images/AlClosure.rendered.open.600.png?raw=true)
 
 #### Closed View
-![Alt text](/images/AlClosure.redered.closed.600.png?raw=true)
+![Alt text](/images/AlClosure.rendered.closed.600.png?raw=true)
 
 #### Detail Image
 ![Alt text](/images/AlClosure.detail.600.png?raw=true)
