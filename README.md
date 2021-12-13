@@ -9,7 +9,8 @@
 - Removable flat panels **very easy to customize**
 
 ![Open View](/images/AlClosure.redered.open.600.png?raw=true)
-[Click for 3D View](/stl/AlClosure.open.stl)]
+
+[Click here for 3D View](/stl/AlClosure.open.stl)
 
 Neccesary parameters in [OpenSCAD](http://openscad.org) file:
 ```js
