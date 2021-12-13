@@ -1,5 +1,12 @@
 ## AlClosure
-A Beautiful Professional Aluminum Device Enclosure
+*A Beautiful Professional Aluminum Enclosure*
+
+- **Simple** to make (machinery required, though)
+- **No visible screws** on front or back panels
+- **Parametric**, can be easily customized for almost any size 
+- **Sturdy, durable** construction
+- **RF shielded**, great for measurement devices
+- Removable flat panels **very easy to customize**
 
 ![Alt text](/images/AlClosure.redered.open.600.png?raw=true)
 
