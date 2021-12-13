@@ -8,9 +8,10 @@
 - **RF shielded**, great for measurement devices
 - Removable flat panels **very easy to customize**
 
-[![Open View](/images/AlClosure.redered.open.600.png?raw=true)(https://github.com/0xPIT/AlClosure/blob/master/stl/AlClosure.open.stl)]
+![Open View](/images/AlClosure.redered.open.600.png?raw=true)
+[Click for 3D View](/stl/AlClosure.open.stl)]
 
-Neccesary parrameters in [OpenSCAD](http://openscad.org) file:
+Neccesary parameters in [OpenSCAD](http://openscad.org) file:
 ```js
 // outer dimensions of final enclosure
 outerW = 300;
