@@ -1,7 +1,7 @@
 ## AlClosure
 *A Beautiful Professional Aluminum Enclosure*
 
-- **Simple** to make (machinery required, though)
+- **Simple** to make, no bending necessary (machinery is required, though)
 - **No visible screws** on front or back panels
 - **Parametric**, can be easily customized for almost any size 
 - **Sturdy, durable** construction
